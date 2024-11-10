@@ -1,0 +1,27 @@
+ < IDOCTYPE html>
+Chimi lang="en"> (scroll
+* Khead› a </head›
+{body>
+Y<div class="container">
+T<section id="download">
+ximg src="Website/Images/app-icon.png" alt="CLK HUNTER">
+<h2>CLK HUNTER</h2> = $0
+<h2> suscribe my channle</h2> =$0
++ ‹р›
+‹р›а</р›
+Lighthouse
+Move to bottom
+* ‹р›@</р›
+‹a href="#" class="download-btn*>Download Now‹/a>
+</ section>
+</ div>
+P xscript>@</script>
+‹meta charset="UTF-8">
+‹meta name="viewport" content="width-device-width, initial-scale=1.®"› ‹title›Game Loader - Download</title>
+<link href="https://fonts.googleapis.con/css22family=Roboto+wght0300:400;7008display=swap" rel-"stylesheet
+‹Link rel-"stylesheet" href-"https://cdnjs.cloudflane.com/ajax/Aibs/font-awesome/6.0.0-beta3/css/all.min.c
+* ‹style>@‹/style>
+><div class="container"›@‹/div›
+<script>©</script›
+</body>
+</html>
